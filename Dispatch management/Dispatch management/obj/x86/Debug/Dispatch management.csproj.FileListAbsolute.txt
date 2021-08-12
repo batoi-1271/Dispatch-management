@@ -1,0 +1,28 @@
+D:\Dispatch management\Dispatch management\Dispatch management\bin\Debug\Dispatch management.exe.config
+D:\Dispatch management\Dispatch management\Dispatch management\bin\Debug\Dispatch management.exe.manifest
+D:\Dispatch management\Dispatch management\Dispatch management\bin\Debug\Dispatch management.application
+D:\Dispatch management\Dispatch management\Dispatch management\bin\Debug\Dispatch management.exe
+D:\Dispatch management\Dispatch management\Dispatch management\bin\Debug\Dispatch management.pdb
+D:\Dispatch management\Dispatch management\Dispatch management\bin\Debug\Microsoft.QualityTools.Testing.Fakes.dll
+D:\Dispatch management\Dispatch management\Dispatch management\obj\x86\Debug\Dispatch management.csproj.ResolveComReference.cache
+D:\Dispatch management\Dispatch management\Dispatch management\obj\x86\Debug\Dispatch_management.FormCoQuan.resources
+D:\Dispatch management\Dispatch management\Dispatch management\obj\x86\Debug\Dispatch_management.FormCVDen.resources
+D:\Dispatch management\Dispatch management\Dispatch management\obj\x86\Debug\Dispatch_management.FormCvDi.resources
+D:\Dispatch management\Dispatch management\Dispatch management\obj\x86\Debug\Dispatch_management.FormLoaiCV.resources
+D:\Dispatch management\Dispatch management\Dispatch management\obj\x86\Debug\Dispatch_management.FormNhanSu.resources
+D:\Dispatch management\Dispatch management\Dispatch management\obj\x86\Debug\Dispatch_management.FormTimKiemCVDen.resources
+D:\Dispatch management\Dispatch management\Dispatch management\obj\x86\Debug\Dispatch_management.FormTimKiemCVDi.resources
+D:\Dispatch management\Dispatch management\Dispatch management\obj\x86\Debug\Dispatch_management.FRMThongKeCVDen.resources
+D:\Dispatch management\Dispatch management\Dispatch management\obj\x86\Debug\Dispatch_management.FRMThongKeCVDi.resources
+D:\Dispatch management\Dispatch management\Dispatch management\obj\x86\Debug\Dispatch_management.HOME.resources
+D:\Dispatch management\Dispatch management\Dispatch management\obj\x86\Debug\Dispatch_management.Inf_User.resources
+D:\Dispatch management\Dispatch management\Dispatch management\obj\x86\Debug\Dispatch_management.Login.resources
+D:\Dispatch management\Dispatch management\Dispatch management\obj\x86\Debug\Dispatch_management.Properties.Resources.resources
+D:\Dispatch management\Dispatch management\Dispatch management\obj\x86\Debug\Dispatch management.csproj.GenerateResource.Cache
+D:\Dispatch management\Dispatch management\Dispatch management\obj\x86\Debug\RdlCompile.cache
+D:\Dispatch management\Dispatch management\Dispatch management\obj\x86\Debug\RdlCompile.compiled
+D:\Dispatch management\Dispatch management\Dispatch management\obj\x86\Debug\Dispatch management.exe.manifest
+D:\Dispatch management\Dispatch management\Dispatch management\obj\x86\Debug\Dispatch management.application
+D:\Dispatch management\Dispatch management\Dispatch management\obj\x86\Debug\Dispatch management.exe
+D:\Dispatch management\Dispatch management\Dispatch management\obj\x86\Debug\Dispatch management.pdb
+D:\Dispatch management\Dispatch management\Dispatch management\obj\x86\Debug\Dispatch management.csprojResolveAssemblyReference.cache
